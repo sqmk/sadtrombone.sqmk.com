@@ -2,7 +2,7 @@
 
 This is the entire contents of the website, http://sadtrombone.at.
 
-The only thing that is not included is the nginx config.
+The only thing that is not included is the nginx config. You can find that in the wiki.
 
 ## What is it for?
 
