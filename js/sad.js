@@ -6,7 +6,7 @@ $(document).ready(function () {
 
     if (url.match(/^https?:\/\//i)) {
         $('#fail').attr('src', url).show();
-        $('#fail').load(function () {
+        $('#fail').one('load', function () {
             $('title').text(
                 $('title').text() + ' @ ' + url
             );
