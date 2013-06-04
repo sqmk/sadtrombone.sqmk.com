@@ -16,6 +16,13 @@ body {
     margin:  0px;
 }
 
+#fail-overlay {
+    display:  none;
+    position: absolute;
+    top:      15%;
+    left:     15%;
+}
+
 #about {
     display:    none;
     margin:     0px auto;
