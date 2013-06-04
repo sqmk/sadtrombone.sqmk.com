@@ -10,7 +10,10 @@ $(document).ready(function () {
             $('title').text(
                 $('title').text() + ' @ ' + url
             );
-            $('#trombone')[0].play();
+
+            $('#fail-overlay').show().click(function () {
+                $('#trombone')[0].play();
+            }).click();
         });
     } else {
         $('#about').show();
