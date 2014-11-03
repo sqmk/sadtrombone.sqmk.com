@@ -15,7 +15,7 @@ Conveying sadness in a URL that is:
 
 ## Why?
 
-I needed a reason to own a .at TLD.
+I needed a reason to own a .us TLD.
 
 ## Issues?
 
