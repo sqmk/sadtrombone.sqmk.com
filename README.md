@@ -1,8 +1,6 @@
-## sadtrombone.us Website
+## sadtrombone.sqmk.com Website
 
-This is the entire contents of the website, http://sadtrombone.us.
-
-The only thing that is not included is the nginx config. You can find that in the wiki.
+This is the entire contents of the website, http://sadtrombone.sqmk.com.
 
 ## What is it for?
 
@@ -15,7 +13,11 @@ Conveying sadness in a URL that is:
 
 ## Why?
 
-I needed a reason to own a .us TLD.
+I wanted a .at domain. I purchased sadtrombone.at. It was expensive. I no longer have an .at domain.
+
+I switched to a .us domain. I never owned a .us domain. They are cheap. I purchased sadtrombone.us. However, .us domains aren't very cool.
+
+Cheaped out, and now running as a github page using my coveted 4 letter domain name.
 
 ## Issues?
 
